@@ -1,5 +1,5 @@
 Ola!!! Eu sou o Rangel
-- 🔭 Estou estudando Java Script atualmente
+- 🔭 Estou estudando Java Script e C atualmente
 - 🌱 Estou cursando Ciências da Computação
 
 <div>
