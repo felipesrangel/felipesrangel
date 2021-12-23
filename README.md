@@ -4,8 +4,8 @@ Ola!!! Eu sou o Rangel
 
 <div>
   <a href="https://github.com/felipesrangel">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=felipesrangel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesrangel&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="200em" width="470em" src="https://github-readme-stats.vercel.app/api?username=felipesrangel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesrangel&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
