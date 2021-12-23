@@ -4,7 +4,7 @@ Ola!!! Eu sou o Rangel
 
 <div>
   <a href="https://github.com/felipesrangel">
-  <img height="180em"  width="400em" src="https://github-readme-stats.vercel.app/api?username=felipesrangel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=felipesrangel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesrangel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
@@ -14,6 +14,7 @@ Ola!!! Eu sou o Rangel
   <img align="center" alt="rangel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="rangel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="rangel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="rangel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
  
   ##
