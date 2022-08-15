@@ -1,6 +1,6 @@
 Ola!!! Eu sou o Rangel
-- 🔭 Estou estudando Java Script e C atualmente
-- 🌱 Estou cursando Ciências da Computação
+- 🔭 Estou estudando Java Script, Typescript e React
+- 🌱 Estou cursando Sistemas de Informação
 
 <div>
   <a href="https://github.com/felipesrangel">
@@ -15,6 +15,7 @@ Ola!!! Eu sou o Rangel
   <img align="center" alt="rangel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="rangel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="rangel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="rangel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
  
   ##
