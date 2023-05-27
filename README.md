@@ -1,6 +1,7 @@
 Ola!!! Eu sou o Rangel
-- 🔭 Estou estudando Java Script, Typescript e React
-- 🌱 Estou cursando Sistemas de Informação
+- Estou estudando para ser um Desenvolvedor Full-Stack. 
+- Tenho mais preferência no Front-End, mas sou aberto em ambas as áreas para conhecimento.
+- Se sentir a vontade, vamos trocar ideias!!!
 
 <div>
   <a href="https://github.com/felipesrangel">
