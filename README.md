@@ -1,7 +1,5 @@
-Ola!!! Eu sou o Rangel
-- Sou Desenvolvedor Full-Stack. 
-- Atuo mais com Backend, mas sou aberto em ambas as áreas para conhecimento.
-- Se senta a vontade, vamos trocar ideias!!!
+Hello!!! You can call me Rangel
+- Developer FullStack.
 
 <div>
   <a href="https://github.com/felipesrangel">
